@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MeuApp</string>
+    <string name="title_activity_formulario_produto">FormularioProdutoActivity</string>
+</resources>
